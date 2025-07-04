@@ -9,7 +9,7 @@ build/
 *.log
 
 # System files
-.DS_Store
+**/.DS_Store
 
 # Env files
 .env
