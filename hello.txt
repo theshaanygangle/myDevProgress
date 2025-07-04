@@ -1,0 +1,4 @@
+Hii my name is shaany!
+
+This is the test file for learn bash cmds
+
