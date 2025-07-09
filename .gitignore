@@ -1,5 +1,6 @@
 # Node modules
 **/node_modules/
+**/**/node_modules/
 
 # Build output
 dist/
@@ -10,6 +11,7 @@ build/
 
 # System files
 **/.DS_Store
+
 
 # Env files
 .env

@@ -1,0 +1,20 @@
+Date : 08 July 2025 
+Day : Tuesday 
+
+1/100 Days To Code Challange
+
+Topics Covered :
+  1. React - State, components
+  2. useState, useEffect 
+  3. Conditional Rendering, Dependency Function
+  4. Props
+  5. Children, List And Keys
+  6. Inline Styling 
+  7. Class based vs Functional components **
+  8. Lifecycle Events
+  9. Error boundaries 
+  10. Fragements
+
+
+
+** Imp for interview

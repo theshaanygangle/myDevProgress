@@ -59,7 +59,7 @@ function Timer (){
 
 
 
-//Condetionally Render TImer
+//Condetionally Render Timer
   if (time%2==0) {
     return <div>
     {time}
